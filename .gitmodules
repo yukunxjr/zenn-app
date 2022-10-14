@@ -1,3 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/yukunxjr/zenn-app-api
 [submodule "front"]
 	path = front
 	url = https://github.com/yukunxjr/zenn-app-front
